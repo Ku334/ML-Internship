@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning Internship
 
 ## Overview
@@ -15,3 +16,7 @@ and unsupervised machine learning.
 - Pandas
 - Matplotlib
 - Scikit-learn
+=======
+# ML-Internship
+12-week Machine Learning Internship Work
+>>>>>>> aeb63a5af1ba205b3d05c6aff2bad7aec3da461b
