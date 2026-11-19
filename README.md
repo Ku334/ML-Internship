@@ -24,7 +24,7 @@ A 12-week Machine Learning Internship covering Python, data preprocessing, explo
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn (from Week 3)
+- Seaborn 
 - Scikit-learn
 
 ## Getting Started
