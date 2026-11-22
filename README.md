@@ -6,7 +6,7 @@ A 12-week Machine Learning Internship covering Python, data preprocessing, explo
 
 ## Weekly Progress
 - [x] Week 01: Python and Environment Setup
-- [ ] Week 02: NumPy and Pandas
+- [x] Week 02: NumPy and Pandas
 - [ ] Week 03: Data Visualization and EDA
 - [ ] Week 04: Machine Learning Basics and Linear Regression
 - [ ] Week 05: Logistic Regression and Classification Metrics
